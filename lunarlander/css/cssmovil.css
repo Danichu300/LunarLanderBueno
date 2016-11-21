@@ -25,28 +25,14 @@
 	 #ajustesiconoaltavoz{
 		 position: fixed;
 		 right: 0px;
-		 top: 15%;
-		 width: 25%;
-		 height: fixed;
-	 }
-	 #ajustesiconoaltavozoff{
-		 position: fixed;
-		 right: 0px;
-		 top: 30%;
+		 top: 19%;
 		 width: 25%;
 		 height: fixed;
 	 }
 	 #ajustesiconopause{
 		 position: fixed;
 		 right: 0px;
-		 top: 40%;
-		 width: 25%;
-		 height: fixed;
-	 }
-	 #ajustesiconoplay{
-		 position: fixed;
-		 right: 0px;
-		 top: 55%;
+		 top: 30%;
 		 width: 25%;
 		 height: fixed;
 	 }
@@ -68,7 +54,18 @@
 	 }
 	 	 #volver{
 	 position: absolute;
-	 bottom: 450px;
+	 bottom: 0px;
 	 width: 320px;
 	 height: 250px;
+	 left: 0px;
+	 }
+	 	 #about{
+		 background: transparent;
+		 position: fixed;
+		 bottom: 0px;
+		 left: 20px;
+	 }
+	 #textoabout2{
+		 color: green;
+		 font-size: 500%;
 	 }
