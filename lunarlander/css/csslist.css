@@ -41,7 +41,7 @@
 	 background: transparent;
 	 width: 100px;
 	 height: 100px;
-	 font-size: 50px;
+	 font-size: 30px;
 	 font-style: bold;
 	 }
 	 #menu-informacion{
@@ -52,6 +52,7 @@
 	 }
 	 #texto{
 	 color: white;
+	 width: 200px;
 	 }
 	 #volver{
 	 position: fixed;
@@ -69,4 +70,25 @@
 	 #textoabout{
 		 color: green;
 		 font-size: 200%;
+	 }
+	 #menu-informacion-grande{
+	 background: transparent;
+	 width: 300px;
+	 height: 300px;
+	 font-size: 40px;
+	 font-style: bold;
+	 }
+	 #textopeque{
+	 color: white;
+	 width: 1000px;
+	 }
+	 #textotitulo{
+	 color: white;
+	 width: 500px;
+	 }
+	 #fuel{
+	 }
+	 #velocidad{
+	 }
+	 #altura{
 	 }

@@ -36,11 +36,11 @@
 		 width: 25%;
 		 height: fixed;
 	 }
-	 #menu-juego{
+	 #menu-juego-vertical{
 	 background: transparent;
 	 width: 100px;
 	 height: 100px;
-	 font-size: 50px;
+	 font-size: 35px;
 	 font-style: bold;
 	 }
 	 #menu-informacion{
