@@ -26,6 +26,10 @@ He creado un **html aparte** para que el jugador pueda ver las instrucciones del
 
 Los iconos en el _modelo horizontal_ se muestran separados a una distancia mas o menos equivalente y con tamaño parecido. Estas pequeñas diferencias se deeb a que el tamaño está regulado mediante píxeles y no a porcentajes. Esto se debe a la _comodidad_ de ajustar las posiciones de esta manera. Igualmente como menciono en el apartado de _PROBLEMAS ENCONTRADOS_ hay cierta diferencia entre los dos ordenadores en los que opero, por lo que a veces resulta lioso para el trabajo. En el _modelo vertical_ los iconos se ven mucho mas grandes debido a que en la diferencia de formato se pierde tamaño y he tenido que ajustarlo a un tamaño apropiado al de la punta de los dedos de forma estándar ya que cada jugador tiene un tamaño diferente de dedos y sea cómodo visualmente y táctilmente.
 
+####ABOUT
+
+He creado **dos html aparte** (uno para el _modelo horizontal_ y uno para el _modelo vertical_) para el apartado del _Acerca de..._Aquí se muestra el desarrollador del videojuego, el cliente y las fuentes de información acudidas para la realización del proyecto.
+
 ####PROBLEMAS ENCONTRADOS
 
 - Hay un cierto **desorden** entre equipos. En el _ordenador del instituto_ no funciona como debería el código (todo se ve **descolocado**, las imágenes se muestran en **proporciones diferentes**, hay que **cambiar las dimensiones**...) respecto a mi _ordenador personal_.
